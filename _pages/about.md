@@ -22,6 +22,3 @@ I am a postdoctoral researcher in the Department of Combinatorics and Optimizati
 
 Previosuly, I received my PhD in Operations Research in Summer 2024 from Georgia Tech ISyE where I was advised by Renato D.C. Monteiro. I also received my M.S. in Mathematics in Spring 2024 from Georgia Tech and a B.S. in Applied and Computational Mathematics in Spring 2019 from University of Southern California. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
