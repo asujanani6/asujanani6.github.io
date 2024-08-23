@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I successfully defended my PhD in Operations Research at Georgia Tech.
+I successfully defended my PhD in Operations Research from Georgia Tech.
