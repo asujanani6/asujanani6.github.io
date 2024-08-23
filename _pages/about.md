@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Waterloo. <a href="https://uwaterloo.ca/combinatorics-and-optimization/" target="_blank">Department of Combinatorics and Optimization</a>. 
+subtitle: University of Waterloo. <a href="https://uwaterloo.ca/combinatorics-and-optimization/" target="_blank">Department of Combinatorics and Optimization</a>. Faculty of Mathematics.
 
 profile:
   align: right
