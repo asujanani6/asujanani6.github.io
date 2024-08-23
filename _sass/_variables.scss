@@ -32,8 +32,8 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: #b970ee;
-$code-bg-color-dark: #37096c !default;
+$code-bg-color-light: lighten($cyan-color, 25%);
+$code-bg-color-dark: lighten($cyan-color, 25%);
 
 // Font awesome location
 $fa-font-path: "../webfonts";
