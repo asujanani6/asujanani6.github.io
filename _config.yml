@@ -27,7 +27,7 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=moltack&show_icons=true) # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=moltack&show_icons=true) # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: date_night # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
