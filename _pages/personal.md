@@ -19,10 +19,4 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Malibu, California</p>
-
-  <p float="left">
-  <img src="/Newport.jpg" width="100" />
-  <img src="/Newport2.jpg" width="100" /> 
-  <img src="/Newport3.jpg" width="100" />
-  </p>
 ---
