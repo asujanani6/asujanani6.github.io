@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /personal/
 title: personal
-description: In my spare time, I like hiking, exploring different trails, and taking nature photos. Here is some of my favorite photos that I have taken.
+description: In my spare time, I like hiking, exploring different trails, and taking nature photos. Here are some of my favorite photos that I have taken.
 nav: true
 nav_order: 4
 
