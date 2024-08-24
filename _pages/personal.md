@@ -46,7 +46,7 @@ Cacti and Rose Gardens:
     </div>
 </div>
 <div class="caption">
-    Left: Elena Gallegos Open Space in Albuquerque, New Mexico. Right: Rose Gardens in Salzburg, Austria.
+    Elena Gallegos Open Space in Albuquerque, New Mexico. Rose Gardens in Salzburg, Austria.
 </div>
 
 Some pictures that I took in California:
@@ -60,7 +60,7 @@ Some pictures that I took in California:
     </div>
 </div>
 <div class="caption">
-    Left: Laguna Beach, California. Right: Malibu, California.
+    On the left, Laguna Beach, California. Right: Malibu, California.
 </div>
 
 {% raw %}
