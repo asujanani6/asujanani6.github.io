@@ -23,6 +23,7 @@ nav_order: 5
 <div class="caption">
     On the left, a picture of Newport Bay, California. Middle, ancient Roman Ampitheatre in Volterra, Italy. Right, view of Salzburg, Austria.
 </div>
+Reflection of Clouds in River:
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Fussen.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -30,6 +31,20 @@ nav_order: 5
 </div>
 <div class="caption">
     Lech River in Fussen, Germany.
+</div>
+
+Cacti and Rose Gardens:
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Abq2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Malibu.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Left: Elena Gallegos Open Space in Albuquerque New Mexico. Right: Rose Gardens in Salzburg, Austria.
 </div>
 
 Some pictures that I took in California:
