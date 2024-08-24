@@ -20,21 +20,22 @@
       "institution": "Georgia Institute of Technology",
       "url": "https://www.isye.gatech.edu",
       "area": "Fast First-Order Methods for Large-Scale Nonconvex Optimization and Semidefinite Programming",
-      "studyType": "PhD in Operations Research",
-      "startDate": "2019-08-01",
+      "studyType": "PhD in Operations Research (GPA 3.92/4.0)",
+      "startDate": "2019-08-15",
       "endDate": "2024-08-01",
       "courses": ["Advised by Renato D.C. Monteiro.", "Committee Members: Arkadi Nemirovski, Alexander Shapiro, Diego Cifuentes, Samuel Burer (External)."]
     },
     {
       "institution": "Georgia Institute of Technology",
       "url": "https://math.gatech.edu",
-      "studyType": "M.S. in Mathematics",
+      "studyType": "M.S. in Mathematics (GPA 4.0/4.0)",
+      "startDate": "2019-08-01",
       "endDate": "2024-05-01"
     },
     {
       "institution": "University of Southern California",
       "url": "https://dornsife.usc.edu/mathematics/research/",
-      "studyType": "B.S. in Applied and Computational Mathematics (",
+      "studyType": "B.S. in Applied and Computational Mathematics (GPA 3.93/4.0)",
       "startDate": "2015-08-01",
       "endDate": "2015-08-01"
     }
@@ -51,7 +52,7 @@
       "name": "An Adaptive Superfast Inexact Proximal Augmented Lagrangian Method for Smooth Nonconvex Composite Optimization Problems",
       "publisher": "Journal of Scientific Computing",
       "releaseDate": "2023-09-23",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
+      "url": "https://link.springer.com/article/10.1007/s10915-023-02350-y",
       "summary": "This work presents an adaptive superfast proximal augmented Lagrangian (AS-PAL) method for solving linearly-constrained smooth nonconvex composite optimization problems. Each iteration of AS-PAL inexactly solves a possibly nonconvex proximal augmented Lagrangian (AL) subproblem obtained by an aggressive/adaptive choice of prox stepsize with the aim of substantially improving its computational performance followed by a full Lagrange multiplier update. A major advantage of AS-PAL compared to other AL methods is that it requires no knowledge of parameters (e.g., size of constraint matrix, objective function curvatures, etc) associated with the optimization problem, due to its adaptive nature not only in choosing the prox stepsize but also in using a crucial adaptive accelerated composite gradient variant to solve the proximal AL subproblems. The speed and efficiency of AS-PAL is demonstrated through extensive computational experiments showing that it can solve many instances more than ten times faster than other state-of-the-art penalty and AL methods, particularly when high accuracy is required."
     }
   ],
