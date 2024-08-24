@@ -13,7 +13,6 @@
       "position": "Postdoctoral Fellow",
       "url": "https://example.com",
       "startDate": "2024-09-01",
-      "endDate": "1955-01-01",
       "summary": "Advised by Professors Stephen Vavasis, Henry Wolkowicz, Walaa Moursi, and Saeed Ghadimi"
     }
   ],
@@ -21,11 +20,25 @@
     {
       "institution": "Georgia Institute of Technology",
       "url": "https://www.isye.gatech.edu",
-      "area": "Software Development",
+      "area": "Fast First-Order Methods for Large-Scale Nonconvex Optimization and Semidefinite Programming",
       "studyType": "PhD in Operations Research",
       "startDate": "2019-08-01",
       "endDate": "2024-08-01",
       "courses": ["Advised by Renato D.C. Monteiro.", "Committee Members: Arkadi Nemirovski, Alexander Shapiro, Diego Cifuentes, Samuel Burer (External)."]
+    },
+    {
+      "institution": "Georgia Institute of Technology",
+      "url": "https://math.gatech.edu",
+      "studyType": "M.S. in Mathematics",
+      "startDate": "2022-10-01",
+      "endDate": "2024-05-01"
+    },
+    {
+      "institution": "University of Southern California",
+      "url": "https://math.gatech.edu",
+      "studyType": "B.S. in Applied and Computational Mathematics (",
+      "startDate": "2015-08-01",
+      "endDate": "2015-08-01"
     }
   ],
   "publications": [
