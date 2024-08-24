@@ -2,7 +2,6 @@
   "basics": {
     "name": "Arnesh Sujanani",
     "label": "Postdoctoral Fellow",
-    "image": "",
     "email": "asujanani6 AT gmail DOT com",
     "website": "https://asujanani6.github.io",
     "summary": "Continuous optimization researcher broadly interested in fast first-order methods, parameter-free optimization, numerical analysis, and semidefinite programming"
@@ -11,7 +10,7 @@
     {
       "name": "Department of Combinatorics and Optimization, University of Waterloo",
       "position": "Postdoctoral Fellow",
-      "url": "https://example.com",
+      "url": "https://uwaterloo.ca/combinatorics-and-optimization/",
       "startDate": "2024-09-01",
       "summary": "Advised by Professors Stephen Vavasis, Henry Wolkowicz, Walaa Moursi, and Saeed Ghadimi"
     }
