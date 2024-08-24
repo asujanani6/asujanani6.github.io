@@ -9,14 +9,19 @@ nav_order: 4
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  
   - align: left
     image: Fussen.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
+      <p>Fussen, Germany</p> 
+    image: Fussen.jpg
+    image_circular: false # crops the image to make it circular
+    more_info: >
       <p>Fussen, Germany</p>
-  - align: right
     image: Malibu.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Malibu, California</p>
+ 
 ---
