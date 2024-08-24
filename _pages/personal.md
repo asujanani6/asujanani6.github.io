@@ -21,7 +21,7 @@ nav_order: 4
     </div>
 </div>
 <div class="caption">
-    On the left, a picture of Newport Bay, California. Middle, ancient Roman Ampitheatre in Volterra, Italy. Right, view of Salzburg, Austria.
+    On the left, a picture of Newport Bay, California. Middle, Ancient Roman Ampitheatre in Volterra, Italy. Right, view of Salzburg, Austria.
 </div>
 
 Reflection of Clouds in River:
@@ -60,7 +60,7 @@ Some pictures that I took in California:
     </div>
 </div>
 <div class="caption">
-    On the left, Laguna Beach, California. Right: Malibu, California.
+    On the left, Laguna Beach, California. Right, Malibu, California.
 </div>
 
 {% raw %}
