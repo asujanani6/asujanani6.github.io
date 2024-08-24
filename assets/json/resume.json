@@ -14,8 +14,7 @@
       "url": "https://example.com",
       "startDate": "2024-09-01",
       "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Advised by Professors Stephen Vavasis, Henry Wolkowicz, Walaa Moursi, and Saeed Ghadimi"
     }
   ],
   "education": [
@@ -26,8 +25,7 @@
       "studyType": "PhD in Operations Research",
       "startDate": "2019-08-01",
       "endDate": "2024-08-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Advised by Renato D.C. Monteiro. Committee Members: Arkadi Nemirovski, Alexander Shapiro, Diego Cifuentes, Samuel Burer (External)."]
     }
   ],
   "publications": [
@@ -55,30 +53,27 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Mathematics and Operations Research",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Continuous Optimization",
+        "Semidefinite Programming",
+        "Numerical Analysis",
+        "Nonconvex Optimization",
+        "First-Order Methods",
+        "Parameter-Free Methods"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Software",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Julia",
+        "Matlab",
+        "LaTeX"
       ]
     }
   ]
