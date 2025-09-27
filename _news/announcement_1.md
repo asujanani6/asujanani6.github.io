@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-05-01 16:11:00-0400
+date: 2024-07-10 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I graduated with my M.S. in Mathematics from Georgia Tech.
+I successfully defended my PhD in Operations Research from Georgia Tech.
