@@ -2,9 +2,9 @@
   "basics": {
     "name": "Arnesh Sujanani",
     "label": "Postdoctoral Fellow",
-    "email": "asujanani6 AT gmail DOT com",
+    "email": "a3sujana AT uwaterloo DOT ca",
     "website": "https://asujanani6.github.io",
-    "summary": "Continuous optimization researcher broadly interested in fast first-order methods, parameter-free optimization, numerical analysis, and semidefinite programming"
+    "summary": "Continuous optimization researcher broadly interested in optimization for machine learning, large-scale semidefinite programming, and first-order methods"
   },
   "work": [
     {
@@ -12,7 +12,7 @@
       "position": "Postdoctoral Fellow",
       "url": "https://uwaterloo.ca/combinatorics-and-optimization/",
       "startDate": "2024-09-01",
-      "summary": "Advised by Professors Stephen Vavasis, Henry Wolkowicz, Walaa Moursi, and Saeed Ghadimi"
+      "summary": "Advised by Professors Henry Wolkowicz (24-26), Saeed Ghadimi (24-26), Walaa Moursi (24-26), and Stephen Vavasis (24-25)"
     }
   ],
   "education": [
@@ -41,9 +41,33 @@
     }
   ],
   "publications": [
+      {
+      "name": "New Insights and Algorithms for Optimal Diagonal Preconditioning.",
+      "publisher": "Available on arXiv. Submitted to SIAM Journal on Matrix Analysis",
+      "releaseDate": "2025-09-27",
+      "url": "https://optimization-online.org/2025/09/new-insights-and-algorithms-for-optimal-diagonal-preconditioning/"
+     },
+      {
+      "name": "Asymptotically Fair and Truthful Allocation of Public Goods",
+      "publisher": "Available on arXiv. Accepted in Journal of Artificial Intelligence Research",
+      "releaseDate": "2025-09-14",
+      "url": "https://arxiv.org/abs/2404.15996"
+    },
+    {
+      "name": "Efficient Parameter-Free Restarted Accelerated Gradient Methods for Convex and Strongly Convex Optimization",
+      "publisher": "Journal of Optimization Theory and Applications",
+      "releaseDate": "2025-06-09",
+      "url": "https://link.springer.com/article/10.1007/s10957-025-02713-5"
+    },
+      {
+      "name": "cuHALLaR: A GPU Accelerated Low-Rank Augmented Lagrangian Method for Large-Scale Semidefinite Programming",
+      "publisher": "Available on arXiv. To be submitted to Mathematical Programming Computation",
+      "releaseDate": "2025-05-19",
+      "url": "https://arxiv.org/abs/2505.13719"
+    },
     {
       "name": "A Low-Rank Augmented Lagrangian Method for Large-Scale Semidefinite Programming Based on a Hybrid Convex-Nonconvex Approach",
-      "publisher": "Submitted to Mathematical Programming",
+      "publisher": "Available on arXiv. Major Revision in Mathematical Programming",
       "releaseDate": "2024-03-31",
       "url": "https://arxiv.org/pdf/2401.12490"
     },
@@ -56,15 +80,15 @@
   ],
   "interests": [
     {
-      "name": "Applied Mathematics",
+      "name": "Optimization and Machine Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Continuous Optimization",
+        "Optimization for Data Science",
         "Semidefinite Programming",
-        "Numerical Analysis",
-        "Nonconvex Optimization",
+        "Continuous Optimization",
         "First-Order Methods",
-        "Parameter-Free Methods"
+        "Nonconvex Optimization",
+        "Numerical Linear Algebra"
       ]
     }
   ],
